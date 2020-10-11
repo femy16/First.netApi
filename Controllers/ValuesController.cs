@@ -11,7 +11,7 @@ namespace WebApi.Controllers
     {
         static List<string> strings = new List<string>()
         {
-            "value0","value1","value2","value3"
+            "value0","value1","value2","value3","values4"
         };
         // GET api/values
         public IEnumerable<string> Get()
